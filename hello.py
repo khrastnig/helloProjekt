@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
 
-print("Guten Start ins neue Schuljahr!")
+print("Guten Start is neue Schuljahr!")
+
+name=input("Bitte geben Sie ihren Benutzername an: ")
+print("Guten Start",name, "im neuen Schuljahr!")
+print(f'Guten Tag {name}!')
 
